@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Учеба\Язык C#\bin\Debug\net6.0\Язык C#.exe
+C:\Users\user\Desktop\Учеба\Язык C#\bin\Debug\net6.0\Язык C#.deps.json
+C:\Users\user\Desktop\Учеба\Язык C#\bin\Debug\net6.0\Язык C#.runtimeconfig.json
+C:\Users\user\Desktop\Учеба\Язык C#\bin\Debug\net6.0\Язык C#.dll
+C:\Users\user\Desktop\Учеба\Язык C#\bin\Debug\net6.0\Язык C#.pdb
+C:\Users\user\Desktop\Учеба\Язык C#\obj\Debug\net6.0\Язык C#.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Учеба\Язык C#\obj\Debug\net6.0\Язык C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Учеба\Язык C#\obj\Debug\net6.0\Язык C#.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Учеба\Язык C#\obj\Debug\net6.0\Язык C#.AssemblyInfo.cs
+C:\Users\user\Desktop\Учеба\Язык C#\obj\Debug\net6.0\Язык C#.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учеба\Язык C#\obj\Debug\net6.0\Язык C#.dll
+C:\Users\user\Desktop\Учеба\Язык C#\obj\Debug\net6.0\refint\Язык C#.dll
+C:\Users\user\Desktop\Учеба\Язык C#\obj\Debug\net6.0\Язык C#.pdb
+C:\Users\user\Desktop\Учеба\Язык C#\obj\Debug\net6.0\Язык C#.genruntimeconfig.cache
+C:\Users\user\Desktop\Учеба\Язык C#\obj\Debug\net6.0\ref\Язык C#.dll
